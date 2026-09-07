@@ -1,0 +1,46 @@
+﻿record_type,code,label,quarter,count
+theme_total,C1,Crisis comparison and attention competition,all,31
+theme_total,C2,Causal links and shared drivers,all,15
+theme_total,C3,"Science, misinformation, and politicization",all,70
+theme_total,C4,"Governance, collective action, and policy capacity",all,46
+theme_total,C5,"Social consequences, inequality, and future transition",all,40
+quarter_theme_count,C1,Crisis comparison and attention competition,2020-Q1,4
+quarter_theme_count,C2,Causal links and shared drivers,2020-Q1,2
+quarter_theme_count,C3,"Science, misinformation and politicization",2020-Q1,1
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2020-Q1,2
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2020-Q1,5
+quarter_theme_count,C1,Crisis comparison and attention competition,2020-Q2,6
+quarter_theme_count,C2,Causal links and shared drivers,2020-Q2,1
+quarter_theme_count,C3,"Science, misinformation and politicization",2020-Q2,5
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2020-Q2,6
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2020-Q2,1
+quarter_theme_count,C1,Crisis comparison and attention competition,2020-Q3,4
+quarter_theme_count,C2,Causal links and shared drivers,2020-Q3,2
+quarter_theme_count,C3,"Science, misinformation and politicization",2020-Q3,13
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2020-Q3,7
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2020-Q3,5
+quarter_theme_count,C1,Crisis comparison and attention competition,2020-Q4,5
+quarter_theme_count,C2,Causal links and shared drivers,2020-Q4,2
+quarter_theme_count,C3,"Science, misinformation and politicization",2020-Q4,12
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2020-Q4,8
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2020-Q4,5
+quarter_theme_count,C1,Crisis comparison and attention competition,2021-Q1,2
+quarter_theme_count,C2,Causal links and shared drivers,2021-Q1,2
+quarter_theme_count,C3,"Science, misinformation and politicization",2021-Q1,9
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2021-Q1,5
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2021-Q1,3
+quarter_theme_count,C1,Crisis comparison and attention competition,2021-Q2,4
+quarter_theme_count,C2,Causal links and shared drivers,2021-Q2,1
+quarter_theme_count,C3,"Science, misinformation and politicization",2021-Q2,6
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2021-Q2,6
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2021-Q2,5
+quarter_theme_count,C1,Crisis comparison and attention competition,2021-Q3,5
+quarter_theme_count,C2,Causal links and shared drivers,2021-Q3,2
+quarter_theme_count,C3,"Science, misinformation and politicization",2021-Q3,14
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2021-Q3,5
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2021-Q3,8
+quarter_theme_count,C1,Crisis comparison and attention competition,2021-Q4,1
+quarter_theme_count,C2,Causal links and shared drivers,2021-Q4,3
+quarter_theme_count,C3,"Science, misinformation and politicization",2021-Q4,10
+quarter_theme_count,C4,"Governance, collective action and policy capacity",2021-Q4,7
+quarter_theme_count,C5,"Social consequences, inequality and future transition",2021-Q4,8

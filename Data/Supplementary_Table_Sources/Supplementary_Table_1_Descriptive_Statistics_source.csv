@@ -1,0 +1,75 @@
+panel,row_order,variable,definition,count,date,source_column,n,mean,standard_deviation,minimum,maximum
+A. Corpus construction,1,Final analytic corpus,Comments dated 21 January 2020 to 31 December 2021,25911526,,,,,,,
+A. Corpus construction,2,Climate-only comments,Comments assigned only to the climate discourse group,1351032,,,,,,,
+A. Corpus construction,3,COVID-only comments,Comments assigned only to the COVID-19 discourse group,24438852,,,,,,,
+A. Corpus construction,4,Co-mention comments,Comments mentioning both climate change and COVID-19,121642,,,,,,,
+A. Corpus construction,5,Calendar days,Days included in the daily analysis,711,,,,,,,
+A. Corpus construction,6,Start date,First included date,,2020-01-21,,,,,,
+A. Corpus construction,7,End date,Last included date,,2021-12-31,,,,,,
+B. Daily descriptive statistics,1,Climate-only comments,,,,climate_only_comments,711,1900.185654,687.7295176,887,6198
+B. Daily descriptive statistics,2,COVID-only comments,,,,covid_only_comments,711,34372.50633,10746.4034,664,64269
+B. Daily descriptive statistics,3,Co-mention comments,,,,co_mention_comments,711,171.0857947,68.811907,6,589
+B. Daily descriptive statistics,4,Total retained comments,,,,total_comments,711,36443.77778,10710.00277,3899,65957
+B. Daily descriptive statistics,5,Co-mention share of climate-related comments (%),,,,co_mention_share_pct,711,8.718840761,3.15971879,0.1854714065,18.90060241
+B. Daily descriptive statistics,6,US daily COVID-19 deaths,,,,US_daily_covid_death,711,1151.97609,897.3535603,0,5061
+B. Daily descriptive statistics,7,"NRC Joy, climate-only",,,,climate_joy_score_freq,711,1.367481546,0.06630935073,1.088103938,1.817109543
+B. Daily descriptive statistics,8,"NRC Joy, COVID-only",,,,covid_joy_score_freq,711,1.2667068,0.110345397,0.8468601475,1.510388483
+B. Daily descriptive statistics,9,"NRC Joy, co-mention",,,,both_joy_score_freq,711,1.31726655,0.1469876413,0.622574547,2.416275587
+B. Daily descriptive statistics,10,"NRC Sadness, climate-only",,,,climate_sadness_score_freq,711,1.670509246,0.07988182469,1.431410048,2.108454037
+B. Daily descriptive statistics,11,"NRC Sadness, COVID-only",,,,covid_sadness_score_freq,711,2.21288978,0.0869700288,1.932693303,2.617261355
+B. Daily descriptive statistics,12,"NRC Sadness, co-mention",,,,both_sadness_score_freq,711,2.381274803,0.2275724995,1.450463037,4.041588314
+B. Daily descriptive statistics,13,"NRC Anger, climate-only",,,,climate_anger_score_freq,711,1.694988886,0.08556358497,1.488707708,2.098503717
+B. Daily descriptive statistics,14,"NRC Anger, COVID-only",,,,covid_anger_score_freq,711,1.368541104,0.05581687928,1.204891414,1.699955764
+B. Daily descriptive statistics,15,"NRC Anger, co-mention",,,,both_anger_score_freq,711,1.924516113,0.1907106257,1.216282634,3.407140668
+B. Daily descriptive statistics,16,"NRC Fear, climate-only",,,,climate_fear_score_freq,711,3.597905224,0.14663867,2.981878827,4.202439187
+B. Daily descriptive statistics,17,"NRC Fear, COVID-only",,,,covid_fear_score_freq,711,2.532050937,0.2114197216,2.257767764,3.640013564
+B. Daily descriptive statistics,18,"NRC Fear, co-mention",,,,both_fear_score_freq,711,3.933182399,0.3696907528,2.382503665,6.167475665
+B. Daily descriptive statistics,19,"NRC Surprise, climate-only",,,,climate_surprise_score_freq,711,0.8748231296,0.05799156908,0.7223850047,1.228740977
+B. Daily descriptive statistics,20,"NRC Surprise, COVID-only",,,,covid_surprise_score_freq,711,0.9176718927,0.03209398689,0.7586958462,1.142898783
+B. Daily descriptive statistics,21,"NRC Surprise, co-mention",,,,both_surprise_score_freq,711,0.9516862845,0.1220593586,0.4113625948,1.722011876
+B. Daily descriptive statistics,22,"NRC Disgust, climate-only",,,,climate_disgust_score_freq,711,1.102265882,0.05765730438,0.9237914239,1.365381853
+B. Daily descriptive statistics,23,"NRC Disgust, COVID-only",,,,covid_disgust_score_freq,711,1.036166774,0.07845410652,0.8906440868,1.383510578
+B. Daily descriptive statistics,24,"NRC Disgust, co-mention",,,,both_disgust_score_freq,711,1.268674785,0.1714580934,0.6904867796,3.227526327
+B. Daily descriptive statistics,25,"NRC Trust, climate-only",,,,climate_trust_score_freq,711,2.575357118,0.1126996406,2.253216985,3.033711471
+B. Daily descriptive statistics,26,"NRC Trust, COVID-only",,,,covid_trust_score_freq,711,2.31336689,0.07134723072,1.804641803,2.5091735
+B. Daily descriptive statistics,27,"NRC Trust, co-mention",,,,both_trust_score_freq,711,2.643034118,0.2359854541,1.387517167,3.925590056
+B. Daily descriptive statistics,28,"NRC Anticipation, climate-only",,,,climate_anticipation_score_freq,711,1.860531783,0.0710328241,1.677610614,2.273702765
+B. Daily descriptive statistics,29,"NRC Anticipation, COVID-only",,,,covid_anticipation_score_freq,711,2.017034135,0.07438574906,1.665325262,2.217177588
+B. Daily descriptive statistics,30,"NRC Anticipation, co-mention",,,,both_anticipation_score_freq,711,1.943059523,0.1581883031,1.422406589,2.759391676
+B. Daily descriptive statistics,31,"NRC Positive, climate-only",,,,climate_positive_score_freq,711,4.166023091,0.1335812442,3.561251724,4.663842046
+B. Daily descriptive statistics,32,"NRC Positive, COVID-only",,,,covid_positive_score_freq,711,3.762009041,0.1464802882,3.023603155,4.017811475
+B. Daily descriptive statistics,33,"NRC Positive, co-mention",,,,both_positive_score_freq,711,4.105416011,0.2873127256,2.585837505,5.640027379
+B. Daily descriptive statistics,34,"NRC Negative, climate-only",,,,climate_negative_score_freq,711,3.712722025,0.124154926,3.311259553,4.292962563
+B. Daily descriptive statistics,35,"NRC Negative, COVID-only",,,,covid_negative_score_freq,711,3.984976168,0.2226571708,3.686579614,5.196499463
+B. Daily descriptive statistics,36,"NRC Negative, co-mention",,,,both_negative_score_freq,711,4.713232887,0.3301523592,3.25173173,7.707472842
+B. Daily descriptive statistics,37,"LIWC-22 positive emotion, climate-only",,,,climate_liwc_emo_pos_pct,711,0.4106629533,0.03469421502,0.3125059895,0.6661191162
+B. Daily descriptive statistics,38,"LIWC-22 positive emotion, COVID-only",,,,covid_liwc_emo_pos_pct,711,0.5340388658,0.06365678963,0.3245458914,0.7302385787
+B. Daily descriptive statistics,39,"LIWC-22 positive emotion, co-mention",,,,both_liwc_emo_pos_pct,711,0.3975452867,0.0836746961,0.04375,0.8271428571
+B. Daily descriptive statistics,40,"LIWC-22 negative emotion, climate-only",,,,climate_liwc_emo_neg_pct,711,0.6065937538,0.03846024662,0.4958069164,0.7731193256
+B. Daily descriptive statistics,41,"LIWC-22 negative emotion, COVID-only",,,,covid_liwc_emo_neg_pct,711,0.6544019643,0.03245553799,0.5771907643,0.7811424452
+B. Daily descriptive statistics,42,"LIWC-22 negative emotion, co-mention",,,,both_liwc_emo_neg_pct,711,0.7128223207,0.1198432679,0.3588888889,1.715
+B. Daily descriptive statistics,43,"LIWC-22 anxiety, climate-only",,,,climate_liwc_emo_anx_pct,711,0.11974646,0.01957710474,0.07613186813,0.2445815324
+B. Daily descriptive statistics,44,"LIWC-22 anxiety, COVID-only",,,,covid_liwc_emo_anx_pct,711,0.1645123589,0.03933585241,0.1308174707,0.3946385542
+B. Daily descriptive statistics,45,"LIWC-22 anxiety, co-mention",,,,both_liwc_emo_anx_pct,711,0.1894874228,0.07899967966,0.03411764706,0.7665517241
+B. Daily descriptive statistics,46,"LIWC-22 anger, climate-only",,,,climate_liwc_emo_anger_pct,711,0.1741203157,0.02055748219,0.1202641691,0.2611896698
+B. Daily descriptive statistics,47,"LIWC-22 anger, COVID-only",,,,covid_liwc_emo_anger_pct,711,0.1184988201,0.01481663792,0.04177638454,0.1726572558
+B. Daily descriptive statistics,48,"LIWC-22 anger, co-mention",,,,both_liwc_emo_anger_pct,711,0.1646443927,0.04797938984,0,0.4272727273
+B. Daily descriptive statistics,49,"LIWC-22 sadness, climate-only",,,,climate_liwc_emo_sad_pct,711,0.06492922345,0.01104912809,0.03714689266,0.1246086509
+B. Daily descriptive statistics,50,"LIWC-22 sadness, COVID-only",,,,covid_liwc_emo_sad_pct,711,0.0816410871,0.01114881994,0.03013477879,0.1227367658
+B. Daily descriptive statistics,51,"LIWC-22 sadness, co-mention",,,,both_liwc_emo_sad_pct,711,0.08051923369,0.03594047581,0,0.3452777778
+B. Daily descriptive statistics,52,"VADER positive, climate-only",,,,climate_vader_positive_pct,711,10.34392349,0.3178533715,9.509934005,12.60228438
+B. Daily descriptive statistics,53,"VADER positive, COVID-only",,,,covid_vader_positive_pct,711,9.508953157,0.5318853578,7.485478292,10.56790813
+B. Daily descriptive statistics,54,"VADER positive, co-mention",,,,both_vader_positive_pct,711,9.837838098,0.6293915592,7.322222392,13.95000076
+B. Daily descriptive statistics,55,"VADER negative, climate-only",,,,climate_vader_negative_pct,711,10.10750123,0.3170902887,9.095280919,11.42804497
+B. Daily descriptive statistics,56,"VADER negative, COVID-only",,,,covid_vader_negative_pct,711,9.016739266,0.4937445138,8.079546435,11.19652986
+B. Daily descriptive statistics,57,"VADER negative, co-mention",,,,both_vader_negative_pct,711,11.89381483,0.7534896657,8.744000244,15.23888821
+B. Daily descriptive statistics,58,US daily confirmed COVID-19 cases,,,,US_daily_covid_confirm,711,75294.35302,67101.3688,0,474309
+B. Daily descriptive statistics,59,Presidential-debate indicator,,,,debates,711,0.01265822785,0.1118731421,0,1
+B. Daily descriptive statistics,60,Climate-news volume,,,,climatenews,711,1582.337553,685.912727,567,3175
+B. Daily descriptive statistics,61,Winter-storm indicator,,,,WinterStorm,711,0.01406469761,0.1178406242,0,1
+B. Daily descriptive statistics,62,Wildfire indicator,,,,Wildfire,711,0.5147679325,0.5001336958,0,1
+B. Daily descriptive statistics,63,Tropical-cyclone indicator,,,,TropicalCyclone,711,0.04781997187,0.2135353682,0,1
+B. Daily descriptive statistics,64,Severe-storm indicator,,,,SevereStorm,711,0.08157524613,0.2739091957,0,1
+B. Daily descriptive statistics,65,Flood indicator,,,,Flood,711,0.01125175809,0.1055501078,0,1
+B. Daily descriptive statistics,66,Drought indicator,,,,Drought,711,0.8129395218,0.3902345925,0,1
+B. Daily descriptive statistics,67,Government Response Index,,,,GovernmentResponseIndex_Average,711,57.10900141,13.74988242,5.21,68.44
